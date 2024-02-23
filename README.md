@@ -1,11 +1,11 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa https://github.com/defnoteid aaaaaaaaaaaa<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-Do you know what ADHD is? I have it.<br>
-Is there anyone you know aroace? me
+```lua
+print("thinking")
+while true do
+	if math.random() >= 0.99 then
+		error("lost my mind in a block")
+	else
+		print("still thinking")
+	end
+end
+print("done")
+```
