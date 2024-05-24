@@ -1,5 +1,4 @@
-> [!NOTE]
-> You can check out my gists here. https://gist.github.com/defnoteid
+You can check out my gists here. https://gist.github.com/defnoteid
 
 ![you just got subspace tripmined](/you%20just%20got%20subspace%20tripmined.png)<br>you really got subspace tripmined
 
@@ -13,6 +12,7 @@
 > 	else
 > 		print("still thinking")
 > 	end
+>   if math.random() >= 0.99 then print("huh?") break end
 > end
 > print("done")
 > ```
