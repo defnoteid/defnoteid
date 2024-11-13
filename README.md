@@ -1,9 +1,7 @@
 # Welcome
 
 You can check out my gists here. https://gist.github.com/defnoteid<br>
-Hello there! I like to code in Lua.<br>I'm diagnosed with ADHD[^1].
-
-[^1]: Short for "Attention Deficit Hyperactivity Disorder."
+Hello there! I like to code in Lua.
 
 
 
