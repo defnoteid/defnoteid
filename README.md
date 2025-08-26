@@ -1,4 +1,4 @@
-bñwhatever
+whatever
 
 * lua
 * javascript
