@@ -1,6 +1,4 @@
-whatever
-
 my programming languages:
-* lua
-* javascript
-* python
+* Lua
+* Javascript
+* Python
